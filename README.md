@@ -58,4 +58,4 @@ This project is provided as-is for educational and personal use.
 
 ## Author
 
-Created with love by Maxmillin (copyright 2025).
+Created with love by Francis Irungu (copyright 2025).
